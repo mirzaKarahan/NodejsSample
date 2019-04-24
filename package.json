@@ -1,0 +1,24 @@
+{
+  "name": "nodejssample",
+  "version": "1.0.0",
+  "description": "NodejsSample",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mirzaKarahan/NodejsSample.git"
+  },
+  "author": "Mirza Karahan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mirzaKarahan/NodejsSample/issues"
+  },
+  "homepage": "https://github.com/mirzaKarahan/NodejsSample#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.11"
+  }
+}
